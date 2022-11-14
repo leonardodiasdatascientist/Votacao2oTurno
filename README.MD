@@ -29,5 +29,9 @@ conda install pyspark
 
 No caso do conda, pode ser necessário utilizar os pacots do conda_forge. Basta visitar a página desses projetos para verificar o comando utilizado.
 
+Existem diversos serviços de cloud para rodar notebooks além do Google Colab e EMR Studio. Veja o artigo abaixo para mais opções:
+
+https://www.dataschool.io/cloud-services-for-jupyter-notebook/
+
 
 
